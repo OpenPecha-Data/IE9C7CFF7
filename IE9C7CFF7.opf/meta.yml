@@ -1,0 +1,77 @@
+id: IE9C7CFF7
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:12:08.560125'
+last_modified: '2022-06-05T20:12:08.560130'
+parser: null
+source_metadata:
+  title: Thangtong Gyalpo Series
+  language: pt
+  description: 'Texts by and about the great siddha and bridge-builder Thangtong Gyalpo
+    (thang stong rgyal po, 1361?–1485):'
+  volume:
+    fD69A:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      base_file: fD69A.txt
+      order: 1
+      parent: Longevity
+    f5AE1:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      base_file: f5AE1.txt
+      order: 2
+      parent: Longevity
+    fF6EF:
+      title: 'Words of Advice on Accomplishing Immortality: An Extremely Concise Daily
+        Practice Uniting the Short Lineages of Amitāyus and Hayagrīva'
+      base_file: fF6EF.txt
+      order: 3
+      parent: Longevity
+    fED78:
+      title: Prayer for Dispelling Famine
+      base_file: fED78.txt
+      order: 4
+      parent: Prayers
+    fEEEB:
+      title: Prayer of Truthful Words to Pacify the Fear of War
+      base_file: fEEEB.txt
+      order: 5
+      parent: Prayers
+    fFC65:
+      title: Prayer to Thangtong Gyalpo
+      base_file: fFC65.txt
+      order: 6
+      parent: Prayers
+    f543E:
+      title: The Outer, Inner and Secret Refuge Practice of the Mahāsiddha Thangtong
+        Gyalpo
+      base_file: f543E.txt
+      order: 7
+      parent: Prayers
+    f6886:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      base_file: f6886.txt
+      order: 8
+      parent: Prayers
+    f4A41:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      base_file: f4A41.txt
+      order: 9
+      parent: Prayers
+    f15A1:
+      title: 'Far-Reaching Benefit of Beings, Extensive as the Sky: Visualization
+        and Mantra Recitation of the Great Compassionate One'
+      base_file: f15A1.txt
+      order: 10
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
